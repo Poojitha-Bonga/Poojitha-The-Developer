@@ -1,31 +1,479 @@
-Paradigm Shift by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+DOCTYPE HTML>
+	<!--
+	Paradigm Shift by HTML5 UP
+	html5up.net 
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+	<html>
 
+	<head>
+		<title>Poojitha Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<div class="content">
+	</head>
 
-Say hello to Paradigm Shift, my first addition to HTML5 UP in more than a year (!!!).
-Took things in a slightly different direction with this one, partly to mess with CSS
-grid (which this one relies on pretty heavily) but mostly to get back to making weirder
-and more experimental designs/layouts. Anyway, hope you dig it, and thanks for the
-continued support despite the lack of updates :)
+	<body class="is-preload">
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+		<!-- Wrapper -->
+		<div id="wrapper">
 
-(* = not included)
+			<!-- Intro -->
+			<section class="intro">
+				<header>
+					<h1>Poojitha Bonga Portfolio</h1>
+					<p></p> <h2><a href="https://twitter.com/ajlkn">JAVA FULL STACK DEVELOPER</a></h2>
+					<ul class="actions">
+						<li><a href="#first" class="arrow scrolly"><span class="label">Next</span></a></li>
+					</ul>
+				</header>
+				<div class="content">
 
-AJ
-aj@lkn.io | @ajlkn
+					<span class="image fill" data-position="center"><img src="images/poojipic1.jpg" alt="" /></span>
+				</div>
+			</section>
 
+			<!-- Section -->
+			<section id="first">
+				<header>
+					<h2>Profile</h2>
+				</header>
+				<div class="content">
+					<p><strong>Professional Summary:</strong> Experienced Java Full-Stack Developer with 6 years of experience specializing in designing, developing, and maintaining N-tier architecture applications using Java/J2EE technologies. Proficient in all phases of project development, including implementation, deployment, and maintenance. Expertise in Spring Framework (Spring Boot, Spring MVC, Spring Security, Spring Cloud), Hibernate ORM, and building RESTful APIs with Microservices architecture. Strong knowledge of OOP concepts, design patterns (Singleton, Factory, MVC), and Java features like Collections, multithreading, and exception handling.
+                      Skilled in front-end technologies (HTML5, CSS3, JavaScript, React.js, Angular.js) and backend development with Java, Node.js, and databases (Oracle, PostgreSQL, MySQL, MongoDB). Experience in developing real-time data solutions with Apache Kafka, and deploying applications in cloud environments (AWS, Azure, GCP) using Docker, Kubernetes, and CI/CD tools like Jenkins. Expertise in testing (JUnit, Mockito, Selenium) and deploying Java applications on Apache Tomcat.</p>
 
-Credits:
+				</div>
+			</section>
 
-	Demo Images:
-		Unsplash (unsplash.com)
+			<!-- Section -->
+			<section>
+				<header>
+					<h2>Skill Set</h2>
+				</header>
+				<div class="content">
+					<p><strong>Back-End Skills </strong>
+					<p>Core Java
+					<p>Spring Framework (Spring Boot, Spring MVC, Spring Security)
+					<p>RESTful APIs
+					<p>JPA / Hibernate
+					<p>Database Management (SQL, NoSQL)
+					<p>Microservices Architecture
+					<p><strong>Front-End Skills</strong>
+					<p>HTML5, CSS3, JavaScript
+					<p>Front-End Frameworks (React.js, Angular, Vue.js)
+					<p>vAJAX / Fetch API
+				    <p><Strong>Cloud and DevOps</Strong></p>
+					     <p>AWS</p>
+					     <p>Docker
+					<p>CI/CD
+					<p><strong>Testing</strong></p>
+					<p>JUnit
+					<p>Mockito
+					<p>Selenium
+					</p>
+			
+					<ul class="feature-icons">
+						<li class="icon solid fa-check mark">Developed Scalable Web Applications</li>
+						<li class="icon solid fa-rocket">Built Microservices Architecture</li>
+						<li class="icon solid fa-link">Developed RESTful APIs</li>
+						<li class="icon solid fa-clock">Integrated Real-Time Data Streaming</li>
+						<li class="icon solid fa-cloud ">Leveraged Cloud Computing Services</li>
+						<li class="icon solid fa-tools">Optimized Front-End Performance</li>
+					</ul>
+					<p></p>
+				</div>
+			</section>
 
-	Icons:
-		Font Awesome (fontawesome.io)
+			<!-- Section -->
+			<section>
+				<header>
+					<h2>Work Experience</h2>
+				</header>
+				<div class="content">
+					<p><strong>Java Full-Stack Developer | US Bank | Dallas, United States | 2023 October -
+							present</strong>
+					<p>Developed secure login and role-based access using Spring Security, and created responsive
+						 UIs with Angular 4 and Bootstrap. Built RESTful APIs and real-time booking engine with 
+						 Spring Boot and JAX-RS, integrating Apache Kafka for notifications. Deployed on AWS 
+						 (EC2, S3), set up CI/CD pipelines with Jenkins, and used Splunk for performance monitoring.
+						  Managed CRUD operations with JPA, and optimized database schemas with PL/SQL. Ensured code 
+						  quality with unit/integration tests (JUnit, Mockito) and maintained version control with Git and Jira.</p>
+					<p><strong>Java Frontend Developer | JP Morgan Chase | Dallas, United States | 2021 September -2023
+							September</strong>
+					<p> Participated in all SDLC phases following Agile methodology. Designed responsive UI using HTML,
+						 CSS, Bootstrap, JavaScript, and AJAX, ensuring seamless user experience. Developed and consumed 
+						 RESTful APIs with Spring Boot and Spring MVC for features like login, idea submission, and 
+						 tracking, while applying Spring concepts (DI, IoC, AOP) and DAO/DTO patterns for efficient 
+						 database interaction. Utilized Core Java features like Collections, Exception Handling, and 
+						 Multithreading to implement business logic. Integrated MySQL with Hibernate/JPA, configured 
+						 Spring Data JPA, and ensured functionality with JUnit and Mockito tests. Managed project builds 
+						 with Maven, deployed on Apache Tomcat, and used Postman for API testing. Implemented logging with 
+						 Log4j and managed version control with Git, tracking tasks with JIRA. Followed MVC architecture for 
+						 maintainable and scalable design</p>
+					<p><strong>Java Backend Developer | Comcast | Dallas, United States |2019 March - 2021
+							August</strong>
+					<p>Contributed to all SDLC phases, collaborating with cross-functional teams to meet project milestones.
+						 Designed responsive UIs with React.js, HTML, CSS, and Bootstrap, and implemented Redux for state management. 
+						 Developed role-based dashboards, secure authentication with Spring Security, and RESTful APIs with Spring Boot.
+						  Managed MySQL databases with Spring Data JPA, wrote JUnit/Mockito tests, and documented APIs using Swagger. 
+						  Deployed on Apache Tomcat, and managed dependencies with Maven and version control with Git.</p>
+					<P><strong>Java Developer|Knoah solutions | Hyderabad, India | 2018 April - 2019
+							February</strong>
+					<p>Developed and maintained Java applications using Java SE/EE, Spring MVC (IoC, AOP), and Hibernate for efficient ORM.
+						 Implemented service layer architecture with design patterns (Singleton, Factory, Facade), and enabled asynchronous
+						  communication via JMS. Authored JUnit tests, provided production support, and enhanced applications with RESTful Web Services. 
+						  Utilized XML for data serialization, wrote SQL queries and stored procedures for database management, and collaborated with
+						   stakeholders to gather requirements and conduct training. Managed version control with GitHub, continuous integration with 
+						   Jenkins, and development with Eclipse IDE.</P>
+					<!-- Section -->
+					<section>
+						<header>
+							<h2>Education</h2>
+						</header>
+						<div class="content">
+							<p><Strong>Master's</Strong>
+							<p>Computer and Information Science in Southern Arkansas University,Mangolia,Arkansas,USA
+							</p>
+							<p><strong>Bachelor's</strong>
+							<p>Computer Science and Engineering in JNTUA,Anantapuramu,AP.India</p>
+						</div>
+					</section>
+				</div>
+			</section>
+			<!-- Elements -->
+			<!--
+					<section>
+						<header>
+							<h2>Elements</h2>
+						</header>
+						<div class="content">
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+							<section>
+								<header>
+									<h3>Text</h3>
+								</header>
+								<div class="content">
+									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+									<hr />
+									<h2>Heading Level 2</h2>
+									<h3>Heading Level 3</h3>
+									<h4>Heading Level 4</h4>
+									<h5>Heading Level 5</h5>
+									<hr />
+									<h5>Blockquote</h5>
+									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+									<h5>Preformatted</h5>
+									<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+  print 'Iteration ' + i;
+  deck.shuffle();
+  i++;
+}
+
+print 'Sorted in ' + i + ' iterations.';</code></pre>
+								</div>
+							</section>
+
+							<section>
+								<header>
+									<h3>Lists</h3>
+								</header>
+								<div class="content">
+
+									<h4>Unordered</h4>
+									<ul>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Alternate</h4>
+									<ul class="alt">
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Ordered</h4>
+									<ol>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis viverra.</li>
+										<li>Felis enim feugiat.</li>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis lorem.</li>
+										<li>Felis enim et feugiat.</li>
+									</ol>
+									<h4>Icons</h4>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+									</ul>
+
+									<h4>Actions</h4>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions stacked">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+								</div>
+							</section>
+
+							<section>
+								<header>
+									<h3>Table</h3>
+								</header>
+								<div class="content">
+									<h4>Default</h4>
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+
+									<h4>Alternate</h4>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+								</div>
+							</section>
+
+							<section>
+								<header>
+									<h3>Buttons</h3>
+								</header>
+								<div class="content">
+									<ul class="actions">
+										<li><a href="#" class="button primary">Primary</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button large">Large</a></li>
+										<li><a href="#" class="button">Default</a></li>
+										<li><a href="#" class="button small">Small</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button primary icon solid fa-download">Icon</a></li>
+										<li><a href="#" class="button icon solid fa-download">Icon</a></li>
+									</ul>
+									<ul class="actions">
+										<li><span class="button primary disabled">Disabled</span></li>
+										<li><span class="button disabled">Disabled</span></li>
+									</ul>
+								</div>
+							</section>
+
+							<section>
+								<header>
+									<h3>Form</h3>
+								</header>
+								<div class="content">
+									<form method="post" action="#">
+										<div class="fields">
+											<div class="field half">
+												<label for="demo-name">Name</label>
+												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Jane Doe" />
+											</div>
+											<div class="field half">
+												<label for="demo-email">Email</label>
+												<input type="email" name="demo-email" id="demo-email" value="" placeholder="jane@untitled.tld" />
+											</div>
+											<div class="field">
+												<label for="demo-category">Category</label>
+												<select name="demo-category" id="demo-category">
+													<option value="">-</option>
+													<option value="1">Manufacturing</option>
+													<option value="1">Shipping</option>
+													<option value="1">Administration</option>
+													<option value="1">Human Resources</option>
+												</select>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+												<label for="demo-priority-low">Low</label>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-high" name="demo-priority">
+												<label for="demo-priority-high">High</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-copy" name="demo-copy">
+												<label for="demo-copy">Email me a copy</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-human" name="demo-human" checked>
+												<label for="demo-human">Not a robot</label>
+											</div>
+											<div class="field">
+												<label for="demo-message">Message</label>
+												<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+											</div>
+										</div>
+										<ul class="actions">
+											<li><input type="submit" value="Send Message" class="primary" /></li>
+											<li><input type="reset" value="Reset" /></li>
+										</ul>
+									</form>
+								</div>
+							</section>
+
+						</div>
+					</section>
+				-->
+
+			<!-- Section -->
+			<section>
+				<header>
+					<h2>Get in touch</h2>
+				</header>
+				<div class="content">
+					<p>I’m always open to new opportunities and collaborations. Feel free to reach out for inquiries,
+						project collaborations, or just a conversation about technology.Let’s connect and build
+						something great!</p>
+					<form>
+						<div class="fields">
+							<div class="field half">
+								<input type="text" name="name" id="name" placeholder="Name" />
+							</div>
+							<div class="field half">
+								<input type="email" name="email" id="email" placeholder="Email" />
+							</div>
+							<div class="field">
+								<textarea name="message" id="message" placeholder="Message" rows="7"></textarea>
+							</div>
+						</div>
+						<ul class="actions">
+							<li><input type="submit" value="Send Message" class="button primary" /></li>
+						</ul>
+					</form>
+				</div>
+				<footer>
+					<ul class="items">
+						<li>
+							<h3>Gmail</h3>
+							<a href="#">poojithabonga@gmail.com </a>
+						</li>
+						<li>
+							<h3>Phone</h3>
+							<a href="#">+1 (469)-490-1872</a>
+						</li>
+						<li>
+							<h3>Address</h3>
+							<span>1925 S cooper st,Arlington,Texas,USA</span>
+						</li>
+						<li>
+							<h3>Elsewhere</h3>
+							<ul class="icons">
+								<li><a href="https://www.linkedin.com/in/poojitha-bonga-ab735333a//"
+										class="icon brands fa-linkedin"><span class="label">linkedin</span></a></li>
+								<li><a href="https://github.com/Poojitha-Bonga/Poojitha-The-Developer"
+										class="icon brands fa-github"><span class="label">github</span></a></li>
+							</ul>
+						</li>
+					</ul>
+				</footer>
+			</section>
+
+		</div>
+
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+
+	</body>
+
+	</html>
